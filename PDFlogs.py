@@ -26,7 +26,7 @@ log_content = """
 
 variables = {
     "Deployment Date": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-    "Deployed By": "Your Name",
+    "Deployed By": "Sheraz karim",
     "Environment": "Production"
 }
 
